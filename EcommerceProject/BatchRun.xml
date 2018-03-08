@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+  <test  name="ChromeTest">
+  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="com.selenium.automation.EcommerceProject.LinksTesting1"/>
+      <class name="com.selenium.automation.EcommerceProject.RadioButton1"/>
+      <class name="com.selenium.automation.EcommerceProject.GmailLinkClicking"/>
+      <class name="com.selenium.automation.EcommerceProject.CheckBox1"/>
+    </classes>
+  </test> <!-- RegressionTest -->
+  
+  <test  name="IETest">
+  <parameter name="browser" value="ie"></parameter>
+    <classes>
+      <class name="com.selenium.automation.EcommerceProject.LinksTesting1"/>
+      <class name="com.selenium.automation.EcommerceProject.RadioButton1"/>
+      <class name="com.selenium.automation.EcommerceProject.GmailLinkClicking"/>
+      <class name="com.selenium.automation.EcommerceProject.CheckBox1"/>
+    </classes>
+  </test> <!-- RegressionTest -->
+  
+</suite> <!-- RegressionSuite -->

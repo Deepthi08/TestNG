@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RegressionSuite" duration-ms="242042" started-at="2018-03-08T07:15:47Z" finished-at="2018-03-08T07:19:49Z">
+    <groups>
+    </groups>
+    <test name="RegressionTest" duration-ms="242042" started-at="2018-03-08T07:15:47Z" finished-at="2018-03-08T07:19:49Z">
+      <class name="com.selenium.automation.EcommerceProject.CheckBox1">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.selenium.automation.EcommerceProject.CheckBox1@4667ae56]" name="beforeMethod" is-config="true" duration-ms="79330" started-at="2018-03-08T12:48:29Z" finished-at="2018-03-08T12:49:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="checkboxTest()[pri:0, instance:com.selenium.automation.EcommerceProject.CheckBox1@4667ae56]" name="checkboxTest" duration-ms="145" started-at="2018-03-08T12:49:48Z" finished-at="2018-03-08T12:49:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkboxTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.selenium.automation.EcommerceProject.CheckBox1@4667ae56]" name="afterMethod" is-config="true" duration-ms="919" started-at="2018-03-08T12:49:48Z" finished-at="2018-03-08T12:49:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.selenium.automation.EcommerceProject.CheckBox1 -->
+      <class name="com.selenium.automation.EcommerceProject.LinksTesting1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.selenium.automation.EcommerceProject.LinksTesting1@5442a311]" name="setup" is-config="true" duration-ms="19341" started-at="2018-03-08T12:45:47Z" finished-at="2018-03-08T12:46:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="linktesting1()[pri:0, instance:com.selenium.automation.EcommerceProject.LinksTesting1@5442a311]" name="linktesting1" duration-ms="6182" started-at="2018-03-08T12:46:06Z" finished-at="2018-03-08T12:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linktesting1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.automation.EcommerceProject.LinksTesting1@5442a311]" name="tearDown" is-config="true" duration-ms="252" started-at="2018-03-08T12:46:12Z" finished-at="2018-03-08T12:46:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.automation.EcommerceProject.LinksTesting1 -->
+      <class name="com.selenium.automation.EcommerceProject.GmailLinkClicking">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.automation.EcommerceProject.GmailLinkClicking@1a968a59]" name="setUp" is-config="true" duration-ms="23218" started-at="2018-03-08T12:47:15Z" finished-at="2018-03-08T12:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyGmailLink()[pri:0, instance:com.selenium.automation.EcommerceProject.GmailLinkClicking@1a968a59]" name="verifyGmailLink" duration-ms="50212" started-at="2018-03-08T12:47:38Z" finished-at="2018-03-08T12:48:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGmailLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.automation.EcommerceProject.GmailLinkClicking@1a968a59]" name="tearDown" is-config="true" duration-ms="352" started-at="2018-03-08T12:48:28Z" finished-at="2018-03-08T12:48:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.automation.EcommerceProject.GmailLinkClicking -->
+      <class name="com.selenium.automation.EcommerceProject.RadioButton1">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.selenium.automation.EcommerceProject.RadioButton1@548e7350]" name="beforeMethod" is-config="true" duration-ms="61013" started-at="2018-03-08T12:46:13Z" finished-at="2018-03-08T12:47:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="radioButton()[pri:0, instance:com.selenium.automation.EcommerceProject.RadioButton1@548e7350]" name="radioButton" duration-ms="150" started-at="2018-03-08T12:47:14Z" finished-at="2018-03-08T12:47:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioButton -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.selenium.automation.EcommerceProject.RadioButton1@548e7350]" name="afterMethod" is-config="true" duration-ms="871" started-at="2018-03-08T12:47:14Z" finished-at="2018-03-08T12:47:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.selenium.automation.EcommerceProject.RadioButton1 -->
+    </test> <!-- RegressionTest -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>
